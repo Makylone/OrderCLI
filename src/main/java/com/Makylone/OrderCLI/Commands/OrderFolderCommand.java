@@ -14,7 +14,7 @@ import picocli.CommandLine.Parameters;
 @Command(name = "order", description = "Reorder the directory")
 public class OrderFolderCommand implements Runnable{
 
-    @Parameters(index = "0", defaultValue = "/home/axelwarheart/Downloads", description = "The path of the directory to reorder")
+    @Parameters(index = "0", defaultValue = "~/Downloads", description = "The path of the directory to reorder")
     private String path;
 
     @Override
