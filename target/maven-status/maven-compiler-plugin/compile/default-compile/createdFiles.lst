@@ -1,0 +1,5 @@
+com/Makylone/OrderCLI/Models/MetaData.class
+com/Makylone/OrderCLI/Main.class
+com/Makylone/OrderCLI/Utils/CreateFolder.class
+com/Makylone/OrderCLI/Utils/ExactInfoFile.class
+com/Makylone/OrderCLI/Commands/OrderFolderCommand.class
